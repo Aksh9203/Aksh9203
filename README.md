@@ -56,4 +56,4 @@ I am a **Master of Science in Software Engineering** student at **Arizona State 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aksh9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshrajesh9203@gmail.com)
+
