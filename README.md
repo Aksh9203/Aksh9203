@@ -44,15 +44,6 @@ I am a **Master of Science in Software Engineering** student at **Arizona State 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksh9203&show_icons=true&theme=radical&hide_border=true" alt="Aksh's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh9203&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aksh9)
